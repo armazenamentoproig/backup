@@ -47,7 +47,7 @@
 
         </ul>
         <footer id="rodape">
-               <!-p>Copyright &copy; 2022 - by Edinaldo Barbosa<br/->
+               <p>Copyright &copy; 2022 - by Edinaldo Barbosa<br/>
                     <a href="https://www.facebook.com/siriusxm/videos/393332841517378/" target="_blank">/facebook</a></p>
         </footer>    
 </div>
