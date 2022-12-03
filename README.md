@@ -48,7 +48,7 @@
         </ul>
         <footer id="rodape">
                <p><br/>
-                    <a href="www.educacao.petrolina.pe.gov.br" target="_blank">/PROIG</a></p>
+                    <a href="https://www.educacao.petrolina.pe.gov.br" target="_blank">/PROIG</a></p>
         </footer>    
 </div>
 </body>
