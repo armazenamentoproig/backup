@@ -35,7 +35,7 @@
 
         <div id="secao">
             
-            <li><a href="https://forms.gle/pEjtaaSjaem97AnF6)" target="_blank"><h2>Armazenamento PROIG 2022</h2></a></li>
+            <li><a href="https://forms.gle/pEjtaaSjaem97AnF6" target="_blank"><h2>Armazenamento PROIG 2022</h2></a></li>
         
         </div>
 
