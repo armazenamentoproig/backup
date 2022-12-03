@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
-    <title>FazenTECH</title>
+    <title>Armazenamento Proig</title>
     <link rel="stylesheet" href="style.css"/>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,18 +10,14 @@
 
 <body>
     
-        <center><h1>Sistema FazenTECH</h1></center>
-
-        <header id="cabecalho">
-        <img id="foto"src="https://s2.glbimg.com/nH731FlooW17MIFXQbvnA6HLAhE=/e.glbimg.com/og/ed/f/original/2019/03/07/pd_.jpg" width="900" height="600"/>
-        </header>
+        <center><h1>Armazenamento Proig</h1></center>
 
     <div id="interface">    
         <ul>
         
         <div id="secao">
 
-            <li><a onclick="carregar('Animais.html')" href="Animais.html"><h2>Cadastro de Animais</h2></a></li>
+            <li><a onclick="carregar('https://forms.gle/u8Pej1PFQPumJtd4A')" href="https://forms.gle/u8Pej1PFQPumJtd4A"><h2>Armazenamento PROIG 2019</h2></a></li>
                                                
         </div>
 
