@@ -45,11 +45,11 @@
         
         </div>
 
-        //</ul>
-        <footer id="rodape">
+        </ul>
+        < !--<footer id="rodape">
                <p>Copyright &copy; 2022 - by Edinaldo Barbosa<br/>
-                    <a href="http://facebook.com/Edinaldo" target="_blank">/facebook</a></p>
-        </footer>//    
+                    <a href="https://www.facebook.com/siriusxm/videos/393332841517378/" target="_blank">/facebook</a></p>
+        </footer>-- >    
 </div>
 </body>
 </html>
