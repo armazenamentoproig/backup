@@ -23,33 +23,33 @@
 
         <div id="secao">
         
-            <li><a onclick="carregar('[Clientes.html](https://forms.gle/rcEqvQixdX4ac3dcA)')" href="(https://forms.gle/rcEqvQixdX4ac3dcA)"><h2>Armazenamento PROIG 2020</h2></a></li>
+            <li><a onclick="carregar('https://forms.gle/rcEqvQixdX4ac3dcA')" href="(https://forms.gle/rcEqvQixdX4ac3dcA)"><h2>Armazenamento PROIG 2020</h2></a></li>
         
         </div>
     
         <div id="secao">
             
-            <li><a onclick="carregar('[Produtos.html](https://forms.gle/zr8Zp8TyJY7Gr8nq7)')" href="[Produtos.html](https://forms.gle/zr8Zp8TyJY7Gr8nq7)"><h2>Armazenamento PROIG 2021</h2></a></li>
+            <li><a onclick="carregar('https://forms.gle/zr8Zp8TyJY7Gr8nq7')" href="[Produtos.html](https://forms.gle/zr8Zp8TyJY7Gr8nq7)"><h2>Armazenamento PROIG 2021</h2></a></li>
         
         </div>
 
         <div id="secao">
             
-            <li><a onclick="carregar('[Funcionarios.html](https://forms.gle/pEjtaaSjaem97AnF6)')" href="[Funcionarios.html](https://forms.gle/pEjtaaSjaem97AnF6)"><h2>Armazenamento PROIG 2022</h2></a></li>
+            <li><a onclick="carregar('https://forms.gle/pEjtaaSjaem97AnF6')" href="[Funcionarios.html](https://forms.gle/pEjtaaSjaem97AnF6)"><h2>Armazenamento PROIG 2022</h2></a></li>
         
         </div>
 
         <div id="secao">
             
-            <li><a onclick="carregar('[Equipamentos.html](https://forms.gle/71ZCFot5YcC9KTRy5)')" href="[Equipamentos.html](https://forms.gle/71ZCFot5YcC9KTRy5)"><h2>Armazenamento PROIG 2023</h2></a></li>
+            <li><a onclick="carregar('https://forms.gle/71ZCFot5YcC9KTRy5')" href="[Equipamentos.html](https://forms.gle/71ZCFot5YcC9KTRy5)"><h2>Armazenamento PROIG 2023</h2></a></li>
         
         </div>
 
-        </ul>
+        //</ul>
         <footer id="rodape">
                <p>Copyright &copy; 2022 - by Edinaldo Barbosa<br/>
                     <a href="http://facebook.com/Edinaldo" target="_blank">/facebook</a></p>
-        </footer>    
+        </footer>//    
 </div>
 </body>
 </html>
